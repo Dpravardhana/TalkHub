@@ -38,7 +38,5 @@ The app is built using Flutter, a powerful cross-platform development framework.
 ### 5. Flutter UI:
    The app's user interface is developed using Flutter's rich set of widgets, ensuring a consistent and engaging experience across different platforms.
 
-### 6. State Management:
-   Flutter's state management solutions like Provider or Riverpod can be utilized to manage app states efficiently and maintain a smooth user experience.
 
 In conclusion, the Flutter-based app provides a seamless and user-friendly experience for group communication. Users can sign up, create/join groups, share messages, and manage their profiles effortlessly, making it a versatile and powerful tool for collaborative interactions.
